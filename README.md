@@ -12,7 +12,7 @@ Model Machine Learning disimpan dalam format `.joblib` dan dipanggil di aplikasi
 ## 📂 Struktur Project
 ```
 
-insurance_app/
+insurance_app_streamlit/
 ├── data/
 │   ├── insurance.csv
 │   └── inference.csv
